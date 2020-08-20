@@ -59,3 +59,9 @@ docker run --rm -ti --volumes-from gcloud-config gcr.io/google.com/cloudsdktool/
 
 docker run --rm -ti --volumes-from gcloud-config gcr.io/google.com/cloudsdktool/cloud-sdk gsutil ls -p forensic-265906
 
+gsutil cp -r gs://safariland-element/datasets  gs://forensic-architectur
+e-machine-learning
+
+forensic-architecture-remote
+
+https://stackoverflow.com/questions/59508225/is-it-possible-to-connect-vscode-on-a-local-machine-with-google-colab-the-fre
