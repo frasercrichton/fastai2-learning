@@ -39,6 +39,9 @@ https://github.com/fastai/fastbook
 
 I've copied FA's triple chaser data to a Google Cloud Bucket. The images are already labelled.
 
+## Getting drones
+
+`fcd -c GOOGLE -m 100 drones.csv`
 
 # Dockerised
 

@@ -1,20 +1,20 @@
 searchterm,exclude
-Drone MQ-1 Predator, Drone
-Drone MQ-1C Gray Eagle, Drone
-Drone RQ-4 Global Hawk, Drone
-Drone RQ-7 Shadow, Drone
-Drone MQ-8B Fire Scout/MQ-8C Fire Scout, Drone
-Drone MQ-9 Reaper, Drone
-Drone CQ-10 Snowgoose, Drone
-Drone RQ-11 Raven, Drone
-Drone RQ-12 Wasp, Drone
-Drone MQ-19 Aerosonde, Drone
-Drone RQ-20 Puma, Drone
-Drone RQ-21 Blackjack, Drone
-Drone RQ-170 Sentinel, Drone
-Drone Black Hornet Nano, Drone
-Drone Snipe, Drone
-Drone Switchblade, Drone
-Drone Maveric, Drone
-Drone Stalker, Drone
-Drone ScanEagle, Drone
+drone "MQ-1 Predator" "in flight" flying, drone "in flight" flying
+drone "MQ-1C Gray Eagle" "in flight" flying, drone "in flight" flying 
+drone "RQ-4 Global Hawk" "in flight" flying, drone "in flight" flying 
+drone "RQ-7 Shadow" "in flight" flying, drone "in flight" flying 
+drone "MQ-8B Fire Scout/MQ-8C Fire Scout" "in flight" flying, drone "in flight" flying 
+drone "MQ-9 Reaper" "in flight" flying, drone "in flight" flying 
+drone "CQ-10 Snowgoose" "in flight" flying, drone "in flight" flying 
+drone "RQ-11 Raven" "in flight" flying, drone "in flight" flying 
+drone "RQ-12 Wasp" "in flight" flying, drone "in flight" flying 
+drone "MQ-19 Aerosonde" "in flight" flying, drone "in flight" flying 
+drone "RQ-20 Puma" "in flight" flying, drone "in flight" flying 
+drone "RQ-21 Blackjack" "in flight" flying, drone "in flight" flying 
+drone "RQ-170 Sentinel" "in flight" flying, drone "in flight" flying 
+drone "Black Hornet Nano" "in flight" flying, drone "in flight" flying 
+drone Snipe "in flight" flying, drone "in flight" flying 
+drone Switchblade "in flight" flying, drone "in flight" flying 
+drone Maveric "in flight" flying, drone "in flight" flying 
+drone Stalker "in flight" flying, drone "in flight" flying 
+drone ScanEagle "in flight" flying, drone "in flight" flying 
