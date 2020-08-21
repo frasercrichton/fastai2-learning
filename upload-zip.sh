@@ -1,5 +1,14 @@
 #!/bin/bash
 
-zip -r upload/drones.zip drone/dataset
+TYPE=canisters
+# -a public-read
+# zip -r upload/drones.zip drone/dataset
 
-docker run --rm -ti --mount src="$(pwd)",target=/data,type=bind --volumes-from gcloud-config gcr.io/google.com/cloudsdktool/cloud-sdk gsutil rsync -a public-read data/upload gs://forensic-architecture-machine-learning/drone
+
+#zip -r upload/${TYPE}.zip data/${TYPE}
+
+# docker run --rm -ti --mount src="$(pwd)",target=/project,type=bind --volumes-from gcloud-config gcr.io/google.com/cloudsdktool/cloud-sdk gsutil rsync project/upload gs://forensic-architecture-machine-learning/${TYPE}
+
+docker run --rm -ti --mount src="$(pwd)",target=/project,type=bind --volumes-from gcloud-config gcr.io/google.com/cloudsdktool/cloud-sdk gsutil acl get gs://forensic-architecture-machine-learning/${TYPE}/${TYPE}.zip > acl.txt
+
+# gsutil acl get gs://<bucketname>/<filename> act.txt
