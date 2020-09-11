@@ -45,23 +45,32 @@ I've copied FA's triple chaser data to a Google Cloud Bucket. The images are alr
 
 # Dockerised
 
-Because Python on Mac . . .
+Because Python on Mac I need Docker . . .
+
+Use a Google Cloud docker image from here:
 
 https://github.com/GoogleCloudPlatform/cloud-sdk-docker
-git 
+
+Run this
 
 ```
 docker pull gcr.io/google.com/cloudsdktool/cloud-sdk:latest
-docker run -ti --name gcloud-config gcr.io/google.com/cloudsdktool/cloud-sdk gcloud auth login
 ````
 
-docker run --rm -ti --volumes-from gcloud-config gcr.io/google.com/cloudsdktool/cloud-sdk gcloud compute instances list --project forensic-265906
+Then you can run against the docker image with your local credentials.
 
-docker run --rm -ti --volumes-from gcloud-config gcr.io/google.com/cloudsdktool/cloud-sdk gsutil ls -p forensic-265906
+## List the data in a remote bucket
 
-gsutil cp -r gs://safariland-element/datasets  gs://forensic-architectur
-e-machine-learning
+```
+docker run --rm -ti --volumes-from gcloud-config gcr.io/google.com/cloudsdktool/cloud-sdk gsutil ls gs://safariland-element/datasets
+```
 
-forensic-architecture-remote
+## Copy the data
+
+```
+gsutil cp -r gs://safariland-element/datasets gs://forensic-architecture-machine-learning
+```
+
+## Todo
 
 https://stackoverflow.com/questions/59508225/is-it-possible-to-connect-vscode-on-a-local-machine-with-google-colab-the-fre
