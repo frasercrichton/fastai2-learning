@@ -1,0 +1,492 @@
+{
+    "description": "",
+    "bitmap": null,
+    "tags": [
+        {
+            "name": "2",
+            "value": null
+        }
+    ],
+    "classTitle": "triplechaser",
+    "points": {
+        "exterior": [
+            [
+                319.0,
+                61.0
+            ],
+            [
+                490.0,
+                381.0
+            ]
+        ],
+        "interior": []
+    }
+},
+{
+    "bitmap": {
+        "origin": [
+            321,
+            74
+        ],
+        "data": "eJwBOgLF/YlQTkcNChoKAAAADUlIRFIAAACvAAABKgEDAAAAWVaS6QAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAHiSURBVHicvdmxkYQgGAVgHAOzowRKsaXrQEqjFEogNGDkdsVd5efBiYImO/MF8sD/GayMBdcvQ1e3QOZOIR6dReyck7EOLzYxixeDRZ1Dd+kxc8xiZbgi4LGIJwdzJ9iVcJfj6MD7Ih5yPFPmRSyK2J+rOclTEbsc65M8XWBFeazBIsfyJHPI/sET9pNGp945xO5fVpgNWC+ckyMvmA/BA1aYDea9Dv2RF8z7miFrzAazxfw9xCFkiVljnjFbzJ998pBdgiVmhVljNpi34IKwLeIFs0uwxOz3M1LWmA3mGbPF7INP99jWY6rbdh7l9WC7Nqwz3N9kVY2Hsywb8vpw+JO84FpWYXuBx3uceBNc4Ymyac5Ut9dgG1YZjttaxrIax21NMKvGUS2X59mPN2/C8wUW99jU45Gybsi+I9OTLHNMtZBZNY7binmpx1Fb7fPsxztqaxU2F5jfY32BxUlWDdmP9/gksxxPt3i5wvTWZWzrcdTW+Xn24x21tQrrHEe1LGNVj/lJlg3Zj4l4kLfxHluwvcLTLZ4rMtHPX0FlLDDTNT9Miqk3JjP75fAQd2YJPpZQ7XxMeeRDyoA7zHtKGfA3JWGW4B5z6uuJTxmpTxnzmhLwOyVihr76vFNiZj/+5w/RSZDdc67JNQAAAABJRU5ErkJggmfKDtg="
+    },
+    "type": "bitmap",
+    "classTitle": "triple_chaser_bitmap",
+    "description": "",
+    "tags": [],
+    "points": {
+        "interior": [],
+        "exterior": []
+    }
+},
+{
+    "description": "",
+    "bitmap": null,
+    "tags": [
+        {
+            "name": "3",
+            "value": null
+        }
+    ],
+    "classTitle": "triplechaser",
+    "points": {
+        "exterior": [
+            [
+                522.0,
+                211.0
+            ],
+            [
+                638.0,
+                287.0
+            ]
+        ],
+        "interior": []
+    }
+},
+{
+    "description": "",
+    "bitmap": null,
+    "tags": [
+        {
+            "name": "1",
+            "value": null
+        }
+    ],
+    "classTitle": "triplechaser",
+    "points": {
+        "exterior": [
+            [
+                203.0,
+                260.0
+            ],
+            [
+                317.0,
+                353.0
+            ]
+        ],
+        "interior": []
+    }
+},
+{
+    "bitmap": {
+        "origin": [
+            209,
+            263
+        ],
+        "data": "eJwBVwGo/olQTkcNChoKAAAADUlIRFIAAABqAAAAVgEDAAAAHVeRAgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAD/SURBVHicfdSxsYYgEEZRGANCS6AUSsPSLIUSCAkc9wmysvcFP9kZZflYUOfm8A4jHGA8wVysvFRMlWa5y2WZSJHbaBMRTBUxOeJDkyM/XDn8I5MjdDZMNQv3qWZhGcOGMAsHcn+pOdJLzZFfao5XmmMW1hyzsObYyURmUkAtPCsHMpKJzKAXcCMDGclEfoXH9lfhwY0MZCRX4bFf81T+8Vxt7KOQFQv1lJY3UvUD95YneawzmDlYymx/tMOw8eVKFvSqr2PJ1t3k9bOxlSwOzTnJg43lad8/D7+RlXehkIfD7nG35+X+Frp49Rs/G/3kslnn64c+HMHs/8ev380fjDbP5+O2PHEAAAAASUVORK5CYIKR15WC"
+    },
+    "type": "bitmap",
+    "classTitle": "triple_chaser_bitmap",
+    "description": "",
+    "tags": [],
+    "points": {
+        "interior": [],
+        "exterior": []
+    }
+},
+{
+    "bitmap": {
+        "origin": [
+            526,
+            216
+        ],
+        "data": "eJwBJwHY/olQTkcNChoKAAAADUlIRFIAAABrAAAAQgEDAAAAatK6sQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADPSURBVHicjdMxDoMwDEBRI6Qy5gg5CtfqFo6Wo1TqBRgzRHEDhODPgJrt1a6NTRA5zktwAjQqOOuCoEZ5d3rVj+v5g6p+6y+NTveTG7UdBLVVn09G8qgVTq5kIjP6aCH1xoWMbYC/OT7SkZ6cyUvbwAM5ko70ZCAVHMjJMqJwpS1cdxVIK2XbgvE22lKZE1Tax0gcN3EZK1eVBI0T95q59cJ3sl2GibSNFza+vSNcuuMSeuSaP/fv5Mq9wlFsuNjv6LzrPRzFhnuu7E++5/4AkZJ14H1m/rcAAAAASUVORK5CYILtKX/j"
+    },
+    "type": "bitmap",
+    "classTitle": "triple_chaser_bitmap",
+    "description": "",
+    "tags": [],
+    "points": {
+        "interior": [],
+        "exterior": []
+    }
+},
+{
+    "bitmap": {
+        "origin": [
+            541,
+            379
+        ],
+        "data": "eJwBtwFI/olQTkcNChoKAAAADUlIRFIAAACEAAAAeQEDAAAAwoYbIwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFfSURBVHicndbLjYQwEARQt+bAcUIgFEKjQ/Nt03AIPvpg0QuD8aeK0aL18UlUt8EfnCtD1MF4BZKMMhmA/JiHh8wSyYYxBo+9d4kkQ/09Zh+KYF3b8ymtvpzQRb9JFsMcQ3ld4jGm5VwxrWmrA2PqNN5NwjCFbhpLk/Ia1yaGpUq09OKheOl66iVBO2Ueg2zQYCm/DKLQ4CkDHA3JKAEa/LQ4jZJIMjR4JxuJ3ckMoo9kAfGPZAUJ/5IIL/VOAokn0QeCH/B4qyCZJJFEXBrHd/9TPImS0KLbSDJJIom0nAOJp02guFHsfusMqzfTpkz323TYKYG2u6cjQb8cEt00Njps8rfjp5tGOeu6aZzF+xavw6+Wr8fhDDFdkL9EMKYGdVfBDDE1yDcRjClBmSSSKMp4e62GN9xqeJ1h7Y9kkkiiKHBzOrpd3XADFlEUjHEUIxQjFCMUIxjjBGPgV+MXrzHIwfd4yWkAAAAASUVORK5CYILxB7to"
+    },
+    "type": "bitmap",
+    "classTitle": "triple_chaser_bitmap",
+    "description": "",
+    "tags": [],
+    "points": {
+        "interior": [],
+        "exterior": []
+    }
+},
+{
+    "bitmap": {
+        "origin": [
+            573,
+            305
+        ],
+        "data": "eJwBegGF/olQTkcNChoKAAAADUlIRFIAAAB7AAAAYgEDAAAAStA+bwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEiSURBVHicldTNkYQgEAXgtqhabksIhMJmNkawMRkKIXj0QMmOiNDvjTXMeuuv9NH8iEh9voSeQPWUfxF8zgiZwD5hVrXJd7AMIVLmK6wM2zuYDkjUOUD5ZFcQCEqEnq5jeJww0xe9d1uh9e4rJIpoqVdES7UNIka01BZRU3tEnY3pkCmz7oRTEHGQOkxQsOGoN5CuBdeNTBoy9VXAAswMCzZaWh3AegMeYBtCuoHwHvYhZFywj2B+BayfKzSGx/8hDCCWBVoMwKZPzQFwFKO4VfTBivItcFrbT3S90sFcfdCfqMAzWIbzOM4dzhANgcExlFRVn6kajg3YAQKDp5vqSN0ADIPgfViaJwhwhZZhFgQHUymAtdidwCSCifoSiQw/In+Dki7avU9xpwAAAABJRU5ErkJggkU6m9U="
+    },
+    "type": "bitmap",
+    "classTitle": "triple_chaser_bitmap",
+    "description": "",
+    "tags": [],
+    "points": {
+        "interior": [],
+        "exterior": []
+    }
+},
+{
+    "bitmap": {
+        "origin": [
+            441,
+            276
+        ],
+        "data": "eJwB8gEN/olQTkcNChoKAAAADUlIRFIAAAB7AAAA0gEDAAAAUBotGgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGaSURBVHicrdfBjcMgEAVQENL6SAl0spSGS6MUSuDog+XZtR0T5mMyRgqHSHmyhj8YUKLUOWbFh0kA0wJgVwBPAIEiAlT1lAVwtCDAvLaFjcNE1MDMwNxAREgM9A1kPg1h9gYCZg+Y3bcAzTjMHiC7JQ7/QXn2/QGW3d1Cnd3vsH6CsEOdnY7RwDu7PiEivJ8wBEVPqIJNBM1ZEY7e6m4b8DgLQY4zRpXUviDxElWR1/dSRF9wFZkKJF6zFHEERUIB4pNcVXUFESEh5Lq1Mm8NK8KGQA3MrLdXEAZJhCzCwhbsEayPwNWwiUCPwDOYxyGKkNj2+B6QBBOHCA/cQfgCeA6zCLhgG76nVYQFIcMG2l8LB3HPNTtbPh3NgYp3Z/DzKb092PoTrCIseCdlhITX2HFJ1S9GAWydq9AivBdk7YBB0AhKhpL9uui9CG4cSne5B9M4mHHQXUg9UDKEcfDj4ES4FjU+h2kczDhoEVQP5j6EcfDj4ESwT6F8vxZ1BIwIehx6v3FVPRyCovYPC4AKCBZBI6hfhJ/j8w8PFBC837CyvwAAAABJRU5ErkJggoTZzhw="
+    },
+    "type": "bitmap",
+    "classTitle": "triple_chaser_bitmap",
+    "description": "",
+    "tags": [],
+    "points": {
+        "interior": [],
+        "exterior": []
+    }
+},
+{
+    "bitmap": {
+        "origin": [
+            423,
+            462
+        ],
+        "data": "eJzrDPBz5+WS4mJgYOD19HAJAtINQOzMyAwk83rmTwJSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5NzydHEMqZiz9PJG3sMKAqwXNmvEVLG4fcyoMHFTPMU0RaSDO8HgTrmKNpesv8x3QQeXvicXON7MP2DjXNH0l+1j+oWX9Td+SK9g2WDYzujOd9j5Gg/3dMODUQfLNmx9tErzgM1VjW2rGt8ukG5hO/chZvGPq8/Tzx56z32IM1mFZd/BwBS27gcCNk5vs9U6OHpUl64/EfjLq+DplgvlogKvZE/ui3JwSsgqN1or4HhabtMhZQuOWeeVmtl86hw+eTBMexKoxGjR8HltVoSB42/z36wsCYw19a/ccgwS/vDNSGuI/8XIZWMluUCYrQ3oSwZPVz+XdU4JTQDwd3ho"
+    },
+    "type": "bitmap",
+    "classTitle": "triple_chaser_bitmap",
+    "description": "",
+    "tags": [],
+    "points": {
+        "interior": [],
+        "exterior": []
+    }
+},
+{
+    "bitmap": {
+        "origin": [
+            321,
+            361
+        ],
+        "data": "eJwB+wEE/olQTkcNChoKAAAADUlIRFIAAACeAAAAowEDAAAAQa81SwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGjSURBVHicrdVBboMwEAVQo1R1d75AJW5SepSepPhm9VHcG3hJJWSXEmzGng+ZqPEm0pPCnz8QotRyXnrFz2ufLMO3ISXX4rBg8g2Of5hCg19/2Fw3XY9D6MVYJXUbTh5gmhBGgjpjImgKkkmHgiR/LEiSipGky477TjTBktQTLEkDwZnn7Ekdxdzpchstn6igqdCdYF+h57MXHCsMJ1jZtuZOgDNoeYZajEaA8Rj7GhNEyzd3gA6hF2Pgi98WKsIZYRRjgmjF6NgDcoT+fxjuQjbndISf7SXyrxviiHCgmN8DBiF8Y9SPXkaNUEGk+TYjfN/RqB1JK7ejgmhO0RPUYiyjBoIdwjIp/VsppSrUCHPSTLETY15JrHBEOJxgqrBHaBDmSrap9MNwmf4boW3v3FIpKo7jvLaqcbiirzGurSCGumdcq0owrf2n22gOULM7Z5KFeGE19Yp1oRXr767oOohTi5cFA0AF0XP06gPhO0J2DpBlPwBZ8wcgW/F9KA8KCD1HjdEhtGLkpnQUI6iuNGh5gAGhF6NDaMUITD2L8Wn7/AXIyWzPhM8yRQAAAABJRU5ErkJggjAx3NE="
+    },
+    "type": "bitmap",
+    "classTitle": "triple_chaser_bitmap",
+    "description": "",
+    "tags": [],
+    "points": {
+        "interior": [],
+        "exterior": []
+    }
+},
+{
+    "bitmap": {
+        "origin": [
+            284,
+            456
+        ],
+        "data": "eJwBUAGv/olQTkcNChoKAAAADUlIRFIAAACEAAAARwEDAAAA/PZ9/gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAD4SURBVHichZOxDYQwDEWNUlAyAqNksZPCaKluDkagpED4DkKC88LpXFA8Of//OEYk1SQoF0mGN4lXHlOdIaO6QkZVd8gouvQsk8AlYpqGRIyST8RkusCdyWVShPpMitCQSRHySqFQyAKrIu1ussGqmN1WqomMhkwwzwMJhswwvwJ1lqyIcwXqLdkZJwUaG+IrMiHOGbEyP4mryQzzM3RtfoQe/5GNcR7IzoAPROsJ/iI8NT0QuH8vPzYE0zjG4RvSjgxuM58wvXxoyNCQSjs2G8Slz/trhK6tNy8dhQuc/6cOMqZpETZFYZOYCrVMRosQRSES1uv4fACTHOzDZQEnJgAAAABJRU5ErkJggiL7h9Q="
+    },
+    "type": "bitmap",
+    "classTitle": "triple_chaser_bitmap",
+    "description": "",
+    "tags": [],
+    "points": {
+        "interior": [],
+        "exterior": []
+    }
+},
+{
+    "bitmap": {
+        "origin": [
+            188,
+            360
+        ],
+        "data": "eJwBLALT/YlQTkcNChoKAAAADUlIRFIAAAB/AAAAgAEDAAAAGLcknAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAHUSURBVHichZXBcYQwDEXxcHBudBC3kVPcSsrIIRNT0pZAKZTAkQODg2xZlj6bxJedfWD9L1nCw8Ar5GMwK+Vs/ruc86zBeIFVA3+BTYNwgV2DmPfJyKR9cKcGFDEZ1UszKt2RXg8KeFKYlg4mAl45C2RqVM4CPXTKWSzblbNUgHKWiuK3MjoAqC+/d/AF4AXB6yeA+Kg/XbVm0QvC9RXg+NQEjHxqAjyfmoDApybJxXpITtK/Tp4ejlKg6xgpqpSQWiEvqsjUCmRtaoBagaLUwlZVWru0UMq8dIi6yezoXSc7uOtkR2uyqYMTQnAQDVbO3QbR4LCq7NWAmaujo74ZsNmYJaoFp/X1BOT/wayz/wV4CxZdwQqcBSskV4bz7ze2O4CgO8o+AeD0wFwOTP+8g4hBkwULAnS+Y7ILnNwJHVU6yDhdZBREw/Rt7VNdoF0GjtcGvc/Nr4ws2OszTMOpZ5LWASPXPtLdSJt0UFVG2mCLkTbYYoT/ixH54DQj8sFpRvoXGWyI7iogWhsiMwvw1kaT0dfNDSTjq8noOyxYXyyzKjBaX1zWWYEiY0DMcNsGBN4aLTIWOASXDNzpEcHt1vf2wqaoAIa0AQgIPAK3Ahg++PcHdjbj5jbZMr0AAAAASUVORK5CYIIvbPl+"
+    },
+    "type": "bitmap",
+    "classTitle": "triple_chaser_bitmap",
+    "description": "",
+    "tags": [],
+    "points": {
+        "interior": [],
+        "exterior": []
+    }
+},
+{
+    "bitmap": {
+        "origin": [
+            282,
+            197
+        ],
+        "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKOQOzAyAwk61M7FgMptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcuZ4ujiGVMzJvbhRsEVBpCVRhsnJa4GI1+FLOk+9DPYceDiX6fdqc4HawxtOB8/Jzi6Mqpv8SG+p8ym1mWuVu2y6lhVzpqZcarKxWjw1QzWqM2zR1BcLXwTM0vAP8au9v6trtw1X/ttdb+I5RVOCtLf1e81S8lqhMLnqyjbD4OAZGotaiq7/CnE0u7n7fK+Ym9lxlppZL/vLWK9I/RZmLcnla10mv6VRpeDMRL6rQHcyeLr6uaxzSmgCACOAXzY="
+    },
+    "type": "bitmap",
+    "classTitle": "triple_chaser_bitmap",
+    "description": "",
+    "tags": [],
+    "points": {
+        "interior": [],
+        "exterior": []
+    }
+},
+{
+    "description": "",
+    "bitmap": null,
+    "tags": [
+        {
+            "name": "11",
+            "value": null
+        }
+    ],
+    "classTitle": "triplechaser",
+    "points": {
+        "exterior": [
+            [
+                186.0,
+                360.0
+            ],
+            [
+                315.0,
+                488.0
+            ]
+        ],
+        "interior": []
+    }
+},
+{
+    "description": "",
+    "bitmap": null,
+    "tags": [
+        {
+            "name": "9",
+            "value": null
+        }
+    ],
+    "classTitle": "triplechaser",
+    "points": {
+        "exterior": [
+            [
+                283.0,
+                455.0
+            ],
+            [
+                416.0,
+                530.0
+            ]
+        ],
+        "interior": []
+    }
+},
+{
+    "description": "",
+    "bitmap": null,
+    "tags": [
+        {
+            "name": "7",
+            "value": null
+        }
+    ],
+    "classTitle": "triplechaser",
+    "points": {
+        "exterior": [
+            [
+                541.0,
+                376.0
+            ],
+            [
+                672.0,
+                500.0
+            ]
+        ],
+        "interior": []
+    }
+},
+{
+    "description": "",
+    "bitmap": null,
+    "tags": [
+        {
+            "name": "6",
+            "value": null
+        }
+    ],
+    "classTitle": "triplechaser",
+    "points": {
+        "exterior": [
+            [
+                573.0,
+                303.0
+            ],
+            [
+                698.0,
+                405.0
+            ]
+        ],
+        "interior": []
+    }
+},
+{
+    "description": "",
+    "bitmap": null,
+    "tags": [
+        {
+            "name": "5",
+            "value": null
+        }
+    ],
+    "classTitle": "triplechaser",
+    "points": {
+        "exterior": [
+            [
+                442.0,
+                275.0
+            ],
+            [
+                565.0,
+                485.0
+            ]
+        ],
+        "interior": []
+    }
+},
+{
+    "description": "",
+    "bitmap": null,
+    "tags": [
+        {
+            "name": "8",
+            "value": null
+        }
+    ],
+    "classTitle": "triplechaser",
+    "points": {
+        "exterior": [
+            [
+                425.0,
+                460.0
+            ],
+            [
+                551.0,
+                529.0
+            ]
+        ],
+        "interior": []
+    }
+},
+{
+    "description": "",
+    "bitmap": null,
+    "tags": [
+        {
+            "name": "4",
+            "value": null
+        }
+    ],
+    "classTitle": "triplechaser",
+    "points": {
+        "exterior": [
+            [
+                284.0,
+                196.0
+            ],
+            [
+                348.0,
+                261.0
+            ]
+        ],
+        "interior": []
+    }
+},
+{
+    "description": "",
+    "bitmap": null,
+    "tags": [
+        {
+            "name": "10",
+            "value": null
+        }
+    ],
+    "classTitle": "triplechaser",
+    "points": {
+        "exterior": [
+            [
+                322.0,
+                360.0
+            ],
+            [
+                479.0,
+                484.0
+            ]
+        ],
+        "interior": []
+    }
+},
+{
+    "description": "",
+    "bitmap": null,
+    "tags": [
+        {
+            "name": "12",
+            "value": null
+        }
+    ],
+    "classTitle": "triplechaser",
+    "points": {
+        "exterior": [
+            [
+                479.0,
+                193.0
+            ],
+            [
+                511.0,
+                238.0
+            ]
+        ],
+        "interior": []
+    }
+},
+{
+    "bitmap": {
+        "origin": [
+            479,
+            198
+        ],
+        "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIKQKzKyAwkJSsrWYAUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBOZmeLo4hFXNsz+3mbTDgcb3YrqEhqdhzgC2ym0nQLVnEzcNT8OgPNQ7x5Rvm2V9SWi9qdqOeb8MxzukmN3gl5TQuZYiuKTy09KTNiyfncuaVcV3xM5Dn/ML08EROSnxK7ZOARymPmkMW1sSfYK5iXDbdw+9c2q1DQEsZPF39XNY5JTQBAIP0Qz0="
+    },
+    "type": "bitmap",
+    "classTitle": "triple_chaser_bitmap",
+    "description": "",
+    "tags": [],
+    "points": {
+        "interior": [],
+        "exterior": []
+    }
+}
